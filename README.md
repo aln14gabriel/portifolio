@@ -4,7 +4,7 @@ Me chamo **Allan Gabriel** Atualmente estou cursando **Análise e Desenvolviment
 
 ---
 
-## 💻 Tecnologias que utilizo diariamente
+## 💻 Tecnologias 
 
 - **Back-End:** Java, Spring Boot, SQL
 - **Front-End:** HTML, CSS, React + Vite
