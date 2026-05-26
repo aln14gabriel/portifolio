@@ -32,7 +32,7 @@ Me chamo **Allan Gabriel** Atualmente estou cursando **Análise e Desenvolviment
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/512/3291/3291670.png" height="30" alt="HTML" />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGfeBGw6jqlFtJqs7NQo2UaVKe7csWoVimhA&s" height="30" alt="CSS" />
+  <img src="https://images.icon-icons.com/2415/PNG/512/css_plain_logo_icon_146573.png" height="30" alt="CSS" />
 </div>
 
 ---
