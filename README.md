@@ -7,8 +7,8 @@ Me chamo **Allan Gabriel** Atualmente estou cursando **Análise e Desenvolviment
 ## 💻 Tecnologias que utilizo diariamente
 
 - **Back-End:** Java, Spring Boot, SQL
-- **Front-End:** HTML, CSS  
-- **Ferramentas:** Git, GitHub, Visual Studio Code,Eclipse, MySQL
+- **Front-End:** HTML, CSS, React + Vite
+- **Ferramentas:** Git, GitHub, Visual Studio Code,Intellij IDEA, MySQL
 
 ---
 
@@ -40,7 +40,7 @@ Me chamo **Allan Gabriel** Atualmente estou cursando **Análise e Desenvolviment
 ## 🌐 Redes sociais
 
 <a href="https://www.linkedin.com/in/aln14gabriel" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="25" alt="LinkedIn logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1280px-LinkedIn_icon.svg.png" height="25" alt="LinkedIn logo" />
 </a>
 
 ---
